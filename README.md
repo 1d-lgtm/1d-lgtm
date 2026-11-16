@@ -19,3 +19,4 @@
 ### 📫 Connect with Me
 - **Portfolio:** [dagi-portfolio-tau.vercel.app](https://dagi-portfolio-tau.vercel.app/)
 - **GitHub:** [@1d-lgtm](https://github.com/1d-lgtm)
+- **Location:** Addis Ababa, Ethiopia 🇪🇹
