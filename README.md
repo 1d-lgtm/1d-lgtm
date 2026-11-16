@@ -1,6 +1,6 @@
 # About Me:
 
- Hi there, I'm Dagmawi Gisila
+ Hi, I'm Dagmawi Gisila
 
  A Computer Science student passionate about modern full-stack development, software architecture, and system design.  
  I specialize in building responsive frontends, robust backend APIs, and efficient database architectures.
