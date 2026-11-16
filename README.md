@@ -12,7 +12,4 @@
 - Tools & Workflow: Git, GitHub, VS Code, Postman  
 - Architecture: System Design, ER Diagrams, UML (Mermaid/PlantUML)
 
-  Goals
-- Build scalable, high-impact web applications
-- Contribute to innovative open-source projects
-- Evolve as a Full-Stack Software Engineer
+ 
